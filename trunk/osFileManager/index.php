@@ -2,8 +2,8 @@
 
 /****************************************************************/
 /*                                                              */
-/* osFileManager                                                */
-/* -------------                                                */
+/* File Admin                                                   */
+/* ----------                                                   */
 /*                                                              */
 /* File Admin will perform basic functions on files/directories.*/
 /* Functions include, List, Open, View, Edit, Create, Upload,   */
@@ -27,18 +27,22 @@
 /* $sqluser - mySQL username.                                   */
 /* $sqlpass - mySQL password.                                   */
 /* $sqldb - mySQL database.                                     */
+/* $default_perm - default unix permissions.                    */
+/* $defaulttheme - default theme to display.                    */
+/* $defaultlang - default language.                             */
 /****************************************************************/
 
 $adminfile = $SCRIPT_NAME;
 $sitetitle = "Demo Browser";
 $config['db']['server'] 		= 'localhost';
-$config['db']['user'] 			= 'USER';
-$config['db']['pass'] 			= 'PASS';
-$config['db']['db'] 			= 'DATABASE';
-$config['db']['pref'] 			= 'osfm_';
-$defaulttheme 				= 'classic';
-$defaultlang 				= 'english';
-$maxuploads 				= 5;
+$config['db']['user'] 			= 'arzbeta_libra';
+$config['db']['pass'] 			= 'l1br4';
+$config['db']['db'] 			= 'arzbeta_libra';
+$config['db']['pref'] 			= 'libra_';
+$default_perm 					= '0777';  // change this to something like 0644 if you are runing suphp
+$defaulttheme 					= 'classic';
+$defaultlang 					= 'english';
+$maxuploads 					= 5;
 $config['enable_trash'] 		= false;  // TODO
 
 
@@ -458,8 +462,7 @@ function up() {
 
 
 function upload($upfile, $ndir, $d) {
-print_r($upfile);
-  global $userdir, $maxuploads;
+  global $userdir, $maxuploads, $default_perm;
   $x=0;
   page_header("Upload");
   opentitle("Upload");
@@ -469,6 +472,7 @@ print_r($upfile);
       if (checkdiskspace(filesize($upfile['tmp_name'][$x]))) {
         if(copy($upfile['tmp_name'][$x],$userdir.$ndir.$upfile['name'][$x])) echo "<font class=ok>The file '/".$ndir.$upfile['name'][$x]."' uploaded successfully.</font><br>\n";
         else echo "<font class=error>File failed to upload '/".$ndir.$upfile['name'][$x]."'.</font><br>\n";
+        @chmod($userdir.$ndir.$upfile['name'][$x], intval($default_perm,8));
       } else {
         echo "<font class=error>You do not have suficient disk space to upload the file(s).</font><br>\n";
         $space = 1;
@@ -587,7 +591,7 @@ function cr() {
 
 
 function create($nfname, $isfolder, $d, $ndir) {
-  global $userdir;
+  global $userdir, $default_perm;
   if (!$d) $dis = "/";
   page_header("Create");
   opentitle("Create");
@@ -595,11 +599,13 @@ function create($nfname, $isfolder, $d, $ndir) {
   if (!$nfname == "") {
     if (!file_exists($userdir.$d.$nfname)) {
       if ($isfolder == 1) {
-        if(mkdir($userdir.$d.$nfname, 0777)) $ok = "Your directory, '".$dis.$d.$ndir.$nfname."', was succesfully created.\n";
+        if(mkdir($userdir.$d.$nfname, $default_perm)) $ok = "Your directory, '".$dis.$d.$ndir.$nfname."', was succesfully created.\n";
         else $error = "The directory, '/".$d.$ndir.$nfname."', could not be created. Check to make sure the permisions on the directory is set to '0777'.\n";
       } else {
-        if(fopen($userdir.$d.$nfname, "w")) $ok = "Your file, '".$dis.$d.$ndir.$nfname."', was succesfully created.\n";
-        else $error = "The file, '".$dis.$ndir.$nfname."', could not be created. Check to make sure the permisions on the directory is set to '0777'.\n";
+        if(fopen($userdir.$d.$nfname, "w")) {
+          $ok = "Your file, '".$dis.$d.$ndir.$nfname."', was succesfully created.\n";
+          @chmod($userdir.$d.$nfname, intval($default_perm,8));
+        } else $error = "The file, '".$dis.$ndir.$nfname."', could not be created. Check to make sure the permisions on the directory is set to '0777'.\n";
       }
       if ($ok) echo "<font class=ok>$ok</font><br><a href=\"?d=$d\">Return</a>\n";
       if ($error) echo "<font class=error>$error</font><br><a href=\"javascript:history.back();\">Back</a>\n";

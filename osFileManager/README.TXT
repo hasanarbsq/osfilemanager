@@ -29,6 +29,9 @@ root            password     /
 
 Version History
 ---------------
+2.2
+Fixed default user permissions when not using suphp.
+
 2.1
 Fixed user issues
 
